@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://sbleru.github.io/csb-oswoq/static/css/main.789cc58c.chunk.css",
-    "main.js": "https://sbleru.github.io/csb-oswoq/static/js/main.faec8e2c.chunk.js",
-    "main.js.map": "https://sbleru.github.io/csb-oswoq/static/js/main.faec8e2c.chunk.js.map",
+    "main.js": "https://sbleru.github.io/csb-oswoq/static/js/main.ceacfd10.chunk.js",
+    "main.js.map": "https://sbleru.github.io/csb-oswoq/static/js/main.ceacfd10.chunk.js.map",
     "runtime-main.js": "https://sbleru.github.io/csb-oswoq/static/js/runtime-main.7d80313c.js",
     "runtime-main.js.map": "https://sbleru.github.io/csb-oswoq/static/js/runtime-main.7d80313c.js.map",
-    "static/js/2.cc41d074.chunk.js": "https://sbleru.github.io/csb-oswoq/static/js/2.cc41d074.chunk.js",
-    "static/js/2.cc41d074.chunk.js.map": "https://sbleru.github.io/csb-oswoq/static/js/2.cc41d074.chunk.js.map",
+    "static/js/2.255ec724.chunk.js": "https://sbleru.github.io/csb-oswoq/static/js/2.255ec724.chunk.js",
+    "static/js/2.255ec724.chunk.js.map": "https://sbleru.github.io/csb-oswoq/static/js/2.255ec724.chunk.js.map",
     "index.html": "https://sbleru.github.io/csb-oswoq/index.html",
     "static/css/main.789cc58c.chunk.css.map": "https://sbleru.github.io/csb-oswoq/static/css/main.789cc58c.chunk.css.map",
-    "static/js/2.cc41d074.chunk.js.LICENSE.txt": "https://sbleru.github.io/csb-oswoq/static/js/2.cc41d074.chunk.js.LICENSE.txt"
+    "static/js/2.255ec724.chunk.js.LICENSE.txt": "https://sbleru.github.io/csb-oswoq/static/js/2.255ec724.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7d80313c.js",
-    "static/js/2.cc41d074.chunk.js",
+    "static/js/2.255ec724.chunk.js",
     "static/css/main.789cc58c.chunk.css",
-    "static/js/main.faec8e2c.chunk.js"
+    "static/js/main.ceacfd10.chunk.js"
   ]
 }
